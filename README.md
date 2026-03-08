@@ -1,7 +1,9 @@
-# 👋 Hey! Nice to see you.
+# 👋 Hey! I'm Md Shoaib
 
-Welcome to my page!
-I'm **Md Shoaib**, Full Stack Developer from **Bogura, Bangladesh 🇧🇩**
+💻 **Full Stack Developer**
+📍 Bogura, Bangladesh 🇧🇩
+
+---
 
 ## 🚀 About Me
 
@@ -40,10 +42,10 @@ I'm a passionate **Full Stack Developer** who loves building modern web applicat
 
 ## 📊 GitHub Stats
 
-![Shoaib GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdshoaib77\&show_icons=true)
+![Shoaib GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdshoaib77\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdshoaib77\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdshoaib77\&layout=compact\&theme=tokyonight)
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
