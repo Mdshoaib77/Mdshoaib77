@@ -1,51 +1,48 @@
-# 👋 Hey! I'm Md Shoaib
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=👋+Hey!+I'm+Md+Shoaib;Full+Stack+Developer;Welcome+to+my+GitHub+Profile" />
+</p>
 
-💻 **Full Stack Developer**
+<p align="center">
+💻 Full Stack Developer <br>
 📍 Bogura, Bangladesh 🇧🇩
+</p>
 
 ---
 
-## 🚀 About Me
+# 🧠 Things I code with
 
-I'm a passionate **Full Stack Developer** who loves building modern web applications.
-
-* 💻 Full Stack Web Developer
-* ⚛️ Frontend: React.js, Next.js, Tailwind CSS
-* 🛠 Backend: Node.js, Express.js
-* 🗄 Database: MongoDB, PostgreSQL, Prisma
-* 🎨 Tools: Figma, Git, AI Tools
-* 🌱 Currently learning **TypeScript, Docker, AWS**
-* 🚀 Always exploring new technologies
-
----
-
-## 🧠 Things I code with
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square\&logo=tailwind-css\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![AI Tools](https://img.shields.io/badge/AI-Tools-blue?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Stats
+# 🌱 Currently Learning
 
-![Shoaib GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdshoaib77\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdshoaib77\&layout=compact\&theme=tokyonight)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+# 🌐 Where to find me
+
+💻 GitHub
+https://github.com/Mdshoaib77
+
+🔗 LinkedIn
+https://www.linkedin.com/in/md-shoaib-07b32a314/
+
+📧 Email
+[mdshoaibfullstack@gmail.com](mailto:mdshoaibfullstack@gmail.com)
+
+💬 WhatsApp
+https://wa.me/8801724519674
+
+🌍 Website
+https://mdshoaibdev.netlify.app/
