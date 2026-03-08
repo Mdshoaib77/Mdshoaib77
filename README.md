@@ -38,7 +38,6 @@ I'm a passionate **Full Stack Developer** who loves building modern web applicat
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/AI%20Tools-412991?style=for-the-badge\&logo=openai\&logoColor=white)
 
 ---
 
