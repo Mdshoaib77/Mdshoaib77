@@ -74,6 +74,18 @@ I'm a passionate **Full Stack Developer** who loves building modern web applicat
 
 ---
 
+## 📊 GitHub Contribution Calendar
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mdshoaib77&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="Mdshoaib77's GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mdshoaib77&theme=react&background=0d1117&hide_border=true&ring=2f81f7&fire=2f81f7" width="100%" alt="Mdshoaib77's GitHub Streak" />
+</p>
+
+---
+
 ## 🌐 Where to find me
 
 <p>
